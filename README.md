@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning : **REACT**
 
-- 👯 I’m looking for : **JOBS or INTERNSHIPS**
+- 👯 I’m looking to collaborate on : **MERN Stack**
 
-- 🤝 I’m looking for help with : **React.js**
+- 🤝 I’m looking for  : **JOBS or INTERNSHIPS**
 
 - 💬 Ask me about : **JAVASCRIPT,JAVA**
 
