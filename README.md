@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on : **MERN Stack**
 
-- 🤝 I’m looking for  : **JOBS or INTERNSHIPS**
+- 🤝 I’m looking for  : **JOBS & INTERNSHIPS**
 
 - 💬 Ask me about : **JAVASCRIPT,JAVA**
 
